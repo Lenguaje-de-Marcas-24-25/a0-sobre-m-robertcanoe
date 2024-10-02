@@ -29,8 +29,6 @@
 
 > *"La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."*
 
-## Expectativas sobre el módulo
-Este módulo de Desarrollo de Aplicaciones Web (DAW) me genera grandes expectativas, ya que siempre me ha gustado la informática y me ha interesado la programación. Durante muchos años les decía a mis amigos y familia que quería dedicarme a la programación, y aquí estoy para dar lo máximo posible, aprender y aprovechar cada oportunidad para mejorar y convertirme en un profesional competente en el desarrollo web.
 
 ## Foto mía
 
